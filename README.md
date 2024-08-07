@@ -19,6 +19,7 @@ npm install -g xpresskit
 ```
 
 ## usage
-``sh
+```sh
 xpresskit  [project-name]
+```
 
